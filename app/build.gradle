@@ -79,7 +79,7 @@ android {
 
         debug {
             applicationIdSuffix ".debug"
-            signingConfig signingConfigs.release
+            signingConfig signingConfigs.debug
         }
 
     }
